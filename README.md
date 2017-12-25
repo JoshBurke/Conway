@@ -8,6 +8,6 @@ Going forward with this project I'd like to optimize the simulation first and fo
 ## Functionality:
 As of now, each time the page is loaded it has a random seed. Click to play/pause.
 
-You can run the simulation by clicking [here](https://github.com/JoshBurke/Conway/blob/master/docs/main.html).
+You can run the simulation by clicking [here](http://htmlpreview.github.com/?https://github.com/JoshBurke/Conway/blob/master/docs/index.html).
 
 -Josh Burke
