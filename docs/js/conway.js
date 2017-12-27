@@ -8,7 +8,7 @@ var bounds = stage.getBounds();
 // parameters
 var XDIMENSION = 50;
 var YDIMENSION = 50;
-var START_DENSITY = 0.07;
+var START_DENSITY = 0.2;
 var CELL_WIDTH = bounds.width / XDIMENSION;
 var CELL_HEIGHT = bounds.height / YDIMENSION;
 var MAX_HZ = 60;
