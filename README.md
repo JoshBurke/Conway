@@ -9,7 +9,7 @@ You can run the simulation by clicking [here](http://htmlpreview.github.com/?htt
 
 ## Update Notes:
 
-### December 27, 2017
+### 1.1 - December 27, 2017
 
 This update:
 * New settings menu next to simulation display
@@ -19,7 +19,7 @@ This update:
 * Fixed bug with bottom row and rightmost column, where they weren't being rendered correctly
 * New CSS stylesheet
 
-### December 25, 2017
+### 1.0 - December 25, 2017
 
 This is my work-in-progess implementation of Conway's Game of Life. I've always been fascinated by the concept of emergence, and Conway's Game is a nice demonstration of how simple processes can work together to become more complex.
 This project is also serving as my first solo web project.
